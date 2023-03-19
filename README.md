@@ -18,5 +18,18 @@ that one should use to write better quality code
 
 🌀 Design Patterns not only talk about designing the object but also talks about interaction between the object like how they should communicate and work togeather
 
+🌀 There are basically 23 design patterns provided by Gang of four architects. these patterns are divided into three categories ( creational , behavioral , structural )
+
+## ADVANTAGES OF DESIGN PATTERNS 
+-----------------------------
+
+The most commonly stated reason to use design pattern because of the following reason :- 
+
+☑️ Use the best solution to certain problem faced during software development 
+             - Makes its easier to reuse successfull design and Architecture 
+             - Learning these patterns makes its easier for unexprienced developer to learn software design in easy and faster way
+
+☑️ With the help of these design pattern , one can easily understand basic object oriented principle to achieve high quality design 
+
 
 
