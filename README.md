@@ -16,4 +16,7 @@ by some smart developer and they have provided us the solution of those common p
 🌀 Design Pattern represents the best practices used by experienced software developers , these are tried and tested solution to most common problem in software design 
 that one should use to write better quality code
 
+🌀 Design Patterns not only talk about designing the object but also talks about interaction between the object like how they should communicate and work togeather
+
+
 
