@@ -42,6 +42,6 @@ The most commonly stated reason to use design pattern because of the following r
 🔼 ## TYPES OF DESIGN PATTERN 
 ------------------------------
 
-Design Pattern are organised into family of related pattern , this maked its easier to learn and focus on specific type of use cases. 
+Design Pattern are organised into family of related pattern , this makes its easier to learn and focus on specific type of use cases. 
 
 
