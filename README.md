@@ -42,6 +42,15 @@ The most commonly stated reason to use design pattern because of the following r
 🔼 ## TYPES OF DESIGN PATTERN 
 ------------------------------
 
-Design Pattern are organised into family of related pattern , this makes its easier to learn and focus on specific type of use cases. 
+⚛️ Design Pattern are organised into family of related pattern , this makes its easier to learn and focus on specific type of use cases. 
+ 
+⚛️ All these 23 Design Patterns have different level of granularity and they all have specific application that they can focus on.
 
+⚛️ ALL these design pattern are divided into three categories based on the problem they solve . These three types are
+                 - Creational Design Pattern  : These type of Design pattern mainly focuses on Object Creation 
+                 - Structural Design Pattern  : These type of Design pattern mainly focuses on Composition of object and classes , How these class are inter-related  
+                 - Behavoiral Design Pattern  : These  type of Design Pattern focuses on communication between the objects like how they interact with each other
+                 
+    
+                  
 
