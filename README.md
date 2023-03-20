@@ -52,6 +52,17 @@ The most commonly stated reason to use design pattern because of the following r
                  - Structural Design Pattern  : These type of Design pattern mainly focuses on Composition of object and classes , How these class are inter-related  
                  - Behavoiral Design Pattern  : These  type of Design Pattern focuses on communication between the objects like how they interact with each other
                  
-    
+⚛️ These three design pattern further categorised based on the scope they have like wheather they can be applied primarily to object or classes.
+
+                 -- Class Pattern : These Patterns deals with relation between classed and sub-classes  
+                 -- Object Pattern : These Pattern deals with Object Realationship that meaans they can be changed at run-time making them much more dynamic
+                                     it also describe how object can be composed into larger structure using object composition or by including object into 
+                                     other object 
+                                     
+                                     
+                 
+                 
+
+
                   
 
