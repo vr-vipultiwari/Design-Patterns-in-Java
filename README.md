@@ -64,6 +64,8 @@ CREATIONAL DESIGN PATTERN
 =========================
 
 
+:sy
+
                  
 
 
