@@ -93,7 +93,34 @@ CREATIONAL DESIGN PATTERN
 ⚛️ There are basically 7 types structural design pattern : ADAPTER , COMPOSITE , DECORATOR , PROXY , FACADE 
  
  
-               
+BEHAVIORAL DESIGN PATTERN
+=========================
+
+
+⚛️ These type of design pattern are specially concerned about communication between the objects.
+
+⚛️ These pattern increases flexibility in carrying out the communication 
+
+⚛️ Behavioral Design pattern use inheritence to describe algorithm and flow of control 
+
+⚛️ There are basically 11 behavioral design pattern.
+
+          -- Like chain of resppnsibility 
+          -- Interpreter 
+          -- Iterator 
+          -- Mediator
+          -- command
+          -- observer
+          -- State 
+          -- Strategy 
+          -- Template 
+          -- State 
+          -- visitor 
+          
+          
+          
+
+
 
                  
 
