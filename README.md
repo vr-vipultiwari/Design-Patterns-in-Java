@@ -64,7 +64,7 @@ CREATIONAL DESIGN PATTERN
 =========================
 
 
-:sy
+⚛️ Creational design pattern concern about the creation of objects 
 
                  
 
