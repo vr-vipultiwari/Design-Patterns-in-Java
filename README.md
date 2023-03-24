@@ -117,7 +117,16 @@ BEHAVIORAL DESIGN PATTERN
           -- State 
           -- visitor 
           
-          
+ ## SOFTWARE DESIGN PRINCIPLE AND STRATEGIES 
+ ===========================================
+ 
+ Software design phase is one of the most important phase in software development life cycle because the maintenance phase is directly affected by the design phase 
+ if you write poorly designed software the maintenance phase is going to be really tough. it will be harder to find and fix bugs and also tough to add new feature.
+ So it is very important that we should have clear understanding  how all these object in our application work togeather. 
+ These software design principles and strategies 
+ 
+ 
+ 
           
 
 
