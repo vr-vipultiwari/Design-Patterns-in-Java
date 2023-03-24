@@ -74,7 +74,26 @@ CREATIONAL DESIGN PATTERN
 
 ⚛️ There are 5 types of creational Patterns : 
                
-               -- 
+               -- Factory 
+               -- Abstract Factory 
+               -- The builder
+               -- The Prototype 
+               -- The Singleton 
+ 
+ 
+ STRUCTURAL DESIGN PATTERNS 
+ ==========================
+ 
+⚛️ These Pattern Describe how classed and object are combined togeather to form a large structure 
+ 
+⚛️ These design pattern mainly concern about classes and object composition 
+
+⚛️ The composite design pattern describes how to build class hierarchy made up of classes for two kinds of object 
+
+⚛️ There are basically 7 types structural design pattern : ADAPTER , COMPOSITE , DECORATOR , PROXY , FACADE 
+ 
+ 
+               
 
                  
 
