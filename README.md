@@ -64,7 +64,11 @@ CREATIONAL DESIGN PATTERN
 =========================
 
 
-⚛️ Creational design pattern concern about the creation of objects 
+⚛️ Creational design pattern concern about the creation of objects instances.
+
+⚛️ Whenever we write any programm, it should not depend upon how objects are created and arranged so in creational design pattern the object creation logic is hidden.
+
+⚛️
 
                  
 
